@@ -18,7 +18,7 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^9.1.1",
     "victory": "^36.6.8",
-    "victory-chart": "^36.6.8",
+    "victory-chart": "^36.8.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
